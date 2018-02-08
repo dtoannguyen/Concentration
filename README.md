@@ -37,6 +37,7 @@ Thanks to Paul Hegarty for the great iOS Course!
 How to:
 - use access control (private, private(set), fileprivate, asserts)
 - use extensions properly
+- use computed properties
 - use static properties and static/mutating methods
 - use filter method
 - animate show and fade away text
