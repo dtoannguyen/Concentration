@@ -32,7 +32,7 @@ My version includes possible solutions to the assignments (required tasks + extr
 
 Thanks to Paul Hegarty for the great iOS Course!
 
-# What I've learned in this project
+# What I've Learned in This Project
 
 How to:
 - use access control (private, private(set), fileprivate, asserts)
